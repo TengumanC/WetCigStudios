@@ -1367,3 +1367,26 @@ LogInit: Object subsystem initialized
 [2018.06.27-14.03.08:689][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
 [2018.06.27-14.03.08:733][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
 [2018.06.27-14.03.11:021][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.27-14.03.37:424][774]LogSavePackage: Save=1179.64ms
+[2018.06.27-14.03.37:424][774]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/CodeMap_Auto1C172A2744EBECBD31C8F6EBE5EC64579.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto1.umap'
+[2018.06.27-14.03.37:431][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto1.umap
+[2018.06.27-14.03.37:437][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/CodeMap' took 1.263
+[2018.06.27-14.03.37:437][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.263
+[2018.06.27-14.03.37:440][774]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/BPHoverVehical] ([1] browsable assets)...
+[2018.06.27-14.03.37:480][774]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical]
+[2018.06.27-14.03.37:480][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/BPHoverVehical]
+[2018.06.27-14.03.37:524][774]LogSavePackage: Save=35.68ms
+[2018.06.27-14.03.37:524][774]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehical_Auto130A3055A4A10C7F523FED6BEC623B787.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto1.uasset'
+[2018.06.27-14.03.37:527][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto1.uasset
+[2018.06.27-14.03.37:527][774]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.06.27-14.03.58:102][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.27-14.04.00:539][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.27-14.04.00:613][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/CodeMap" FILE="../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.27-14.04.01:506][231]LogSavePackage: Save=865.77ms
+[2018.06.27-14.04.01:506][231]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/CodeMapC903924348F7C21DD895408A714F9463.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap'
+[2018.06.27-14.04.01:516][231]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap
+[2018.06.27-14.04.01:558][231]LogFileHelpers: Saving map 'CodeMap' took 1.008
+[2018.06.27-14.04.01:593][231]LogSavePackage: Save=25.95ms
+[2018.06.27-14.04.01:593][231]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehicalAA7222584500F7A513419CA9A7939E5F.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset'
+[2018.06.27-14.04.01:597][231]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset
+[2018.06.27-14.04.07:603][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
