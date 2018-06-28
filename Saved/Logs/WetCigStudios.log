@@ -2032,3 +2032,49 @@ LogInit: Object subsystem initialized
 [2018.06.28-13.28.43:562][319]LogSavePackage: Save=50.98ms
 [2018.06.28-13.28.43:562][319]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehicalD1CE042849BFE9E46A3F7E901A2364E8.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset'
 [2018.06.28-13.28.43:567][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset
+[2018.06.28-13.47.17:911][915]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/CodeMap' took 0.034
+[2018.06.28-13.47.17:914][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/BPHoverVehical] ([1] browsable assets)...
+[2018.06.28-13.47.17:935][915]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical]
+[2018.06.28-13.47.17:935][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/BPHoverVehical]
+[2018.06.28-13.47.18:014][915]LogSavePackage: Save=64.17ms
+[2018.06.28-13.47.18:014][915]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehical_Auto4726702744E2A6AEC39579EA1710F8B07.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto4.uasset'
+[2018.06.28-13.47.18:017][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto4.uasset
+[2018.06.28-13.47.18:017][915]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.06.28-13.49.45:068][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.49.50:338][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.49.50:382][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.49.50:383][734]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-13.49.50:399][734]LogPlayLevel: [PlayLevel] Compiling BPHoverVehical before play...
+[2018.06.28-13.49.50:414][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c1b3cc00, Size=992
+[2018.06.28-13.49.50:414][734]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3b3ba1800, Size=992, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_208:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.49.50:423][734]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e40feb1000, Size=1024, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.49.51:198][734]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3b3ba1800, Size=992
+[2018.06.28-13.49.51:199][734]LogPlayLevel: PlayLevel: Blueprint regeneration took 816 ms (1 blueprints)
+[2018.06.28-13.49.51:199][734]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:49:51 AM)
+[2018.06.28-13.49.51:200][734]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.49.51:224][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023983s)
+[2018.06.28-13.49.51:225][734]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.49.51:226][734]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2018.06.28-13.49.51:226][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.026348s)
+[2018.06.28-13.49.51:257][734]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.49.51:325][734]LogInit: FAudioDevice initialized.
+[2018.06.28-13.49.51:357][734]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.49.51:364][734]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.49.51
+[2018.06.28-13.49.51:364][734]LogWorld: Bringing up level for play took: 0.002843
+[2018.06.28-13.49.51:365][734]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 1.381
+[2018.06.28-13.49.51:374][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.51.02:424][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.51.02:468][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.58.30:272][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.58.31:112][823]LogSavePackage: Save=752.91ms
+[2018.06.28-13.58.31:113][823]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/CodeMap_Auto5648A981449A42FE6640D9396F4593252.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto5.umap'
+[2018.06.28-13.58.31:115][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto5.umap
+[2018.06.28-13.58.31:118][823]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/CodeMap' took 0.820
+[2018.06.28-13.58.31:118][823]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.820
+[2018.06.28-13.58.31:120][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/BPHoverVehical] ([1] browsable assets)...
+[2018.06.28-13.58.31:161][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical]
+[2018.06.28-13.58.31:161][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/BPHoverVehical]
+[2018.06.28-13.58.31:249][823]LogSavePackage: Save=78.17ms
+[2018.06.28-13.58.31:249][823]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehical_Auto5B88A3CAC4204FD6C6CBFEAA3E12E4037.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto5.uasset'
+[2018.06.28-13.58.31:252][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto5.uasset
+[2018.06.28-13.58.31:252][823]LogFileHelpers: Auto-saving content packages took 0.132
