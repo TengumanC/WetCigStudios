@@ -1576,3 +1576,459 @@ LogInit: Object subsystem initialized
 [2018.06.27-20.21.42:047][595]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/SedanA70E18334D65DEAAE6C37093AAAFC6DB.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Sedan/Sedan.uasset'
 [2018.06.27-20.21.42:052][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Sedan/Sedan.uasset
 [2018.06.27-20.21.45:956][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.27-20.57.46:122][310]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{bfd2bd2e-df46-42ff-9d27-da12f3339f06} was removed. Shutting down audio device.
+[2018.06.27-20.57.46:122][310]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.27-20.57.47:424][311]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.05.05:305][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.05.05:407][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.05.05:454][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.05.05:456][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.05.05:457][598]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:05:05 AM)
+[2018.06.28-13.05.05:460][598]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.05.05:571][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109395s)
+[2018.06.28-13.05.05:576][598]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.05.05:579][598]LogPlayLevel: PIE: World Init took: (0.008238s)
+[2018.06.28-13.05.05:579][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.118847s)
+[2018.06.28-13.05.05:753][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e399409800, Size=496
+[2018.06.28-13.05.05:762][598]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.05.05:828][598]LogInit: FAudioDevice initialized.
+[2018.06.28-13.05.05:866][598]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.05.05:882][598]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.05.05
+[2018.06.28-13.05.05:884][598]LogWorld: Bringing up level for play took: 0.010623
+[2018.06.28-13.05.05:890][598]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.095
+[2018.06.28-13.05.05:891][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.05.41:391][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.05.41:458][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.05:082][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.06.05:181][121]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.06.05:208][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.05:209][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.06.05:209][121]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:06:05 AM)
+[2018.06.28-13.06.05:209][121]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.06.05:232][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022500s)
+[2018.06.28-13.06.05:233][121]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.06.05:233][121]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2018.06.28-13.06.05:233][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.024031s)
+[2018.06.28-13.06.05:265][121]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.06.05:333][121]LogInit: FAudioDevice initialized.
+[2018.06.28-13.06.05:364][121]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.06.05:369][121]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.06.05
+[2018.06.28-13.06.05:369][121]LogWorld: Bringing up level for play took: 0.002264
+[2018.06.28-13.06.05:371][121]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.614
+[2018.06.28-13.06.05:371][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.23:241][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.23:290][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.25:209][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.06.25:326][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.06.25:348][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.25:348][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.06.25:348][300]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:06:25 AM)
+[2018.06.28-13.06.25:348][300]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.06.25:369][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020692s)
+[2018.06.28-13.06.25:370][300]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.06.25:371][300]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2018.06.28-13.06.25:371][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022479s)
+[2018.06.28-13.06.25:402][300]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.06.25:469][300]LogInit: FAudioDevice initialized.
+[2018.06.28-13.06.25:503][300]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.06.25:508][300]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.06.25
+[2018.06.28-13.06.25:509][300]LogWorld: Bringing up level for play took: 0.002799
+[2018.06.28-13.06.25:510][300]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.475
+[2018.06.28-13.06.25:510][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.45:041][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.06.45:103][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.08.23:586][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.12.07:427][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2018.06.28-13.12.08:139][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.12.14:024][847]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.12.14:046][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.12.14:047][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-13.12.14:069][847]LogPlayLevel: [PlayLevel] Compiling BPHoverVehical before play...
+[2018.06.28-13.12.14:083][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e384341000, Size=512
+[2018.06.28-13.12.14:083][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e36df1e800, Size=512, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_156:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.12.14:093][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3d556b800, Size=928, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.12.14:865][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e36df1e800, Size=512
+[2018.06.28-13.12.14:867][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 820 ms (1 blueprints)
+[2018.06.28-13.12.14:867][847]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:12:14 AM)
+[2018.06.28-13.12.14:867][847]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.12.14:891][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023260s)
+[2018.06.28-13.12.14:893][847]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.12.14:893][847]LogPlayLevel: PIE: World Init took: (0.001882s)
+[2018.06.28-13.12.14:893][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.025583s)
+[2018.06.28-13.12.14:921][847]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.12.14:999][847]LogInit: FAudioDevice initialized.
+[2018.06.28-13.12.15:041][847]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.12.15:052][847]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.12.15
+[2018.06.28-13.12.15:053][847]LogWorld: Bringing up level for play took: 0.004671
+[2018.06.28-13.12.15:055][847]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 1.07
+[2018.06.28-13.12.15:056][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.12.24:669][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.12.24:711][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.12.30:036][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.15.09:813][137]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.15.09:854][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.15.09:855][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-13.15.09:872][137]LogPlayLevel: [PlayLevel] Compiling BPHoverVehical before play...
+[2018.06.28-13.15.09:889][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3d556b800, Size=928
+[2018.06.28-13.15.09:889][137]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3ef055800, Size=928, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_162:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.15.09:900][137]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3ec79e000, Size=992, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.15.10:754][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3ef055800, Size=928
+[2018.06.28-13.15.10:755][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 900 ms (1 blueprints)
+[2018.06.28-13.15.10:756][137]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:15:10 AM)
+[2018.06.28-13.15.10:756][137]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.15.10:779][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023522s)
+[2018.06.28-13.15.10:781][137]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.15.10:781][137]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2018.06.28-13.15.10:781][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.025437s)
+[2018.06.28-13.15.10:810][137]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.15.10:879][137]LogInit: FAudioDevice initialized.
+[2018.06.28-13.15.10:914][137]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.15.10:922][137]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.15.10
+[2018.06.28-13.15.10:923][137]LogWorld: Bringing up level for play took: 0.003260
+[2018.06.28-13.15.10:924][137]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 0.939
+[2018.06.28-13.15.10:924][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.15.22:145][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.15.22:185][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.15.23:445][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.15.23:545][881]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.15.23:573][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.15.23:574][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.15.23:574][881]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:15:23 AM)
+[2018.06.28-13.15.23:574][881]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.15.23:599][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025242s)
+[2018.06.28-13.15.23:600][881]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.15.23:600][881]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2018.06.28-13.15.23:600][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.026617s)
+[2018.06.28-13.15.23:630][881]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.15.23:700][881]LogInit: FAudioDevice initialized.
+[2018.06.28-13.15.23:735][881]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.15.23:741][881]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.15.23
+[2018.06.28-13.15.23:741][881]LogWorld: Bringing up level for play took: 0.003131
+[2018.06.28-13.15.23:742][881]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.243
+[2018.06.28-13.15.23:742][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.20:037][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.20:084][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.20:165][256]Cmd: SELECT NONE
+[2018.06.28-13.16.21:070][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.16.21:686][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.16.21:707][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.21:708][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.16.21:708][343]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:16:21 AM)
+[2018.06.28-13.16.21:708][343]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.16.21:728][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020541s)
+[2018.06.28-13.16.21:729][343]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.16.21:730][343]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2018.06.28-13.16.21:730][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022168s)
+[2018.06.28-13.16.21:761][343]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.16.21:828][343]LogInit: FAudioDevice initialized.
+[2018.06.28-13.16.21:859][343]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.16.21:865][343]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.16.21
+[2018.06.28-13.16.21:866][343]LogWorld: Bringing up level for play took: 0.002997
+[2018.06.28-13.16.21:867][343]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.118
+[2018.06.28-13.16.21:867][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.45:122][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.45:166][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.49:188][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.16.51:130][  1]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.16.51:155][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.16.51:155][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.16.51:155][  1]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:16:51 AM)
+[2018.06.28-13.16.51:155][  1]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.16.51:185][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028949s)
+[2018.06.28-13.16.51:186][  1]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.16.51:186][  1]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.06.28-13.16.51:186][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.030349s)
+[2018.06.28-13.16.51:217][  1]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.16.51:285][  1]LogInit: FAudioDevice initialized.
+[2018.06.28-13.16.51:323][  1]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.16.51:328][  1]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.16.51
+[2018.06.28-13.16.51:329][  1]LogWorld: Bringing up level for play took: 0.002725
+[2018.06.28-13.16.51:330][  1]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.654
+[2018.06.28-13.16.51:330][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.17.18:305][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.17.18:358][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.17.21:905][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.18.08:678][ 99]BlueprintLog: New page: Compile BPHoverVehical
+[2018.06.28-13.18.08:716][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3ec79e000, Size=992
+[2018.06.28-13.18.08:716][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e40591cc00, Size=992, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_168:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.18.08:725][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e39a58b400, Size=992, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.18.12:342][240]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.18.12:383][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.12:383][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.18.12:383][240]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:18:12 AM)
+[2018.06.28-13.18.12:383][240]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.18.12:405][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021945s)
+[2018.06.28-13.18.12:406][240]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.18.12:407][240]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.06.28-13.18.12:407][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.023462s)
+[2018.06.28-13.18.12:433][240]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e40591cc00, Size=992
+[2018.06.28-13.18.12:437][240]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.18.12:507][240]LogInit: FAudioDevice initialized.
+[2018.06.28-13.18.12:543][240]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.18.12:548][240]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.18.12
+[2018.06.28-13.18.12:548][240]LogWorld: Bringing up level for play took: 0.002573
+[2018.06.28-13.18.12:550][240]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 0.565
+[2018.06.28-13.18.12:550][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.21:078][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.21:122][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.22:654][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.18.22:753][834]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.18.22:777][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.22:777][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.18.22:777][834]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:18:22 AM)
+[2018.06.28-13.18.22:777][834]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.18.22:798][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020360s)
+[2018.06.28-13.18.22:799][834]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.18.22:799][834]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2018.06.28-13.18.22:799][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.021609s)
+[2018.06.28-13.18.22:827][834]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.18.22:896][834]LogInit: FAudioDevice initialized.
+[2018.06.28-13.18.22:928][834]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.18.22:943][834]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.18.22
+[2018.06.28-13.18.22:944][834]LogWorld: Bringing up level for play took: 0.005088
+[2018.06.28-13.18.22:945][834]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 0.96
+[2018.06.28-13.18.22:945][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.36:523][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.36:564][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.37:421][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.18.37:520][693]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.18.37:544][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.18.37:544][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.18.37:544][693]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:18:37 AM)
+[2018.06.28-13.18.37:544][693]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.18.37:565][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020453s)
+[2018.06.28-13.18.37:566][693]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.18.37:566][693]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2018.06.28-13.18.37:566][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.021884s)
+[2018.06.28-13.18.37:597][693]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.18.37:664][693]LogInit: FAudioDevice initialized.
+[2018.06.28-13.18.37:694][693]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.18.37:700][693]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.18.37
+[2018.06.28-13.18.37:700][693]LogWorld: Bringing up level for play took: 0.002988
+[2018.06.28-13.18.37:701][693]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.283
+[2018.06.28-13.18.37:701][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.19.20:091][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.19.20:140][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.19.29:289][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.19.45:816][522]BlueprintLog: New page: Compile BPHoverVehical
+[2018.06.28-13.19.45:850][522]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e39a58b400, Size=992
+[2018.06.28-13.19.45:850][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e40069e000, Size=992, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_174:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.19.45:859][522]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e40069f000, Size=992, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.19.48:498][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.19.48:536][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.19.48:536][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.19.48:536][641]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:19:48 AM)
+[2018.06.28-13.19.48:536][641]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.19.48:557][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020884s)
+[2018.06.28-13.19.48:559][641]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.19.48:559][641]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2018.06.28-13.19.48:559][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022625s)
+[2018.06.28-13.19.48:588][641]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e40069e000, Size=992
+[2018.06.28-13.19.48:592][641]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.19.48:662][641]LogInit: FAudioDevice initialized.
+[2018.06.28-13.19.48:700][641]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.19.48:706][641]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.19.48
+[2018.06.28-13.19.48:707][641]LogWorld: Bringing up level for play took: 0.003151
+[2018.06.28-13.19.48:708][641]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 0.723
+[2018.06.28-13.19.48:708][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.08:021][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.08:067][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.08:911][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.20.08:995][843]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.20.09:017][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.09:017][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.20.09:017][843]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:20:09 AM)
+[2018.06.28-13.20.09:017][843]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.20.09:038][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020810s)
+[2018.06.28-13.20.09:039][843]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.20.09:039][843]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2018.06.28-13.20.09:039][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022281s)
+[2018.06.28-13.20.09:069][843]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.20.09:136][843]LogInit: FAudioDevice initialized.
+[2018.06.28-13.20.09:174][843]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.20.09:179][843]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.20.09
+[2018.06.28-13.20.09:180][843]LogWorld: Bringing up level for play took: 0.002555
+[2018.06.28-13.20.09:180][843]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.804
+[2018.06.28-13.20.09:181][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.55:921][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.20.55:968][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.14:907][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.21.15:023][773]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.21.15:049][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.15:049][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.21.15:049][773]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:21:15 AM)
+[2018.06.28-13.21.15:049][773]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.21.15:070][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019966s)
+[2018.06.28-13.21.15:071][773]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.21.15:072][773]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2018.06.28-13.21.15:072][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022226s)
+[2018.06.28-13.21.15:100][773]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.21.15:167][773]LogInit: FAudioDevice initialized.
+[2018.06.28-13.21.15:204][773]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.21.15:210][773]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.21.15
+[2018.06.28-13.21.15:210][773]LogWorld: Bringing up level for play took: 0.002450
+[2018.06.28-13.21.15:211][773]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.774
+[2018.06.28-13.21.15:211][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.38:625][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.38:667][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.39:602][226]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.21.39:628][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.21.39:629][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.21.39:629][226]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:21:39 AM)
+[2018.06.28-13.21.39:630][226]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.21.39:651][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021172s)
+[2018.06.28-13.21.39:652][226]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.21.39:652][226]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2018.06.28-13.21.39:652][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.022938s)
+[2018.06.28-13.21.39:682][226]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.21.39:752][226]LogInit: FAudioDevice initialized.
+[2018.06.28-13.21.39:752][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.21.39:789][226]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.21.39:795][226]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.21.39
+[2018.06.28-13.21.39:795][226]LogWorld: Bringing up level for play took: 0.003064
+[2018.06.28-13.21.39:797][226]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.188
+[2018.06.28-13.21.39:797][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.22.30:751][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.22.30:797][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.22.32:681][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.22.34:676][476]LogRenderer: Reallocating scene render targets to support 1224x688 Format 10 NumSamples 1 (Frame:16814).
+[2018.06.28-13.22.45:300][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.22.50:696][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.22.53:199][486]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3b44825d8, Size=4, Default__SKEL_BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.SKEL_BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.23.01:701][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.23.27:292][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.23.40:636][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.23.48:458][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.23.57:443][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.24.06:292][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.24.15:088][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.24.20:644][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.24.43:458][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3b44825d8, Size=4
+[2018.06.28-13.24.43:458][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c21a1748, Size=4, Default__SKEL_BPHoverVehical_C Function /Engine/Transient.REINST_SKEL_BPHoverVehical_C_178:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.24.43:460][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c21a0d68, Size=4, Default__SKEL_BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.SKEL_BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.24.47:858][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.24.53:126][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.25.10:091][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.25.10:180][390]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.25.10:209][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.10:210][390]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-13.25.10:225][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c21a0d68, Size=4
+[2018.06.28-13.25.10:225][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c1467108, Size=4, Default__SKEL_BPHoverVehical_C Function /Engine/Transient.REINST_SKEL_BPHoverVehical_C_181:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.25.10:227][390]LogPlayLevel: [PlayLevel] Compiling BPHoverVehical before play...
+[2018.06.28-13.25.10:245][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e40069f000, Size=992
+[2018.06.28-13.25.10:245][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3f43cd000, Size=992, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_184:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.25.10:257][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c1b3c400, Size=992, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.25.11:133][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c21a1748, Size=4
+[2018.06.28-13.25.11:134][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3f43cd000, Size=992
+[2018.06.28-13.25.11:139][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c1467108, Size=4
+[2018.06.28-13.25.11:187][390]LogPlayLevel: PlayLevel: Blueprint regeneration took 977 ms (1 blueprints)
+[2018.06.28-13.25.11:187][390]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:25:11 AM)
+[2018.06.28-13.25.11:187][390]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.25.11:214][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026233s)
+[2018.06.28-13.25.11:215][390]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.25.11:215][390]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2018.06.28-13.25.11:215][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.027683s)
+[2018.06.28-13.25.11:245][390]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.25.11:313][390]LogInit: FAudioDevice initialized.
+[2018.06.28-13.25.11:349][390]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.25.11:357][390]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.25.11
+[2018.06.28-13.25.11:358][390]LogWorld: Bringing up level for play took: 0.002909
+[2018.06.28-13.25.11:359][390]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 1.375
+[2018.06.28-13.25.11:359][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.23:142][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.23:183][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.24:420][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.25.24:536][154]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.25.24:566][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.24:567][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.25.24:567][154]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:25:24 AM)
+[2018.06.28-13.25.24:567][154]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.25.24:588][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021509s)
+[2018.06.28-13.25.24:590][154]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.25.24:590][154]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2018.06.28-13.25.24:591][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.023646s)
+[2018.06.28-13.25.24:622][154]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.25.24:692][154]LogInit: FAudioDevice initialized.
+[2018.06.28-13.25.24:722][154]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.25.24:728][154]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.25.24
+[2018.06.28-13.25.24:729][154]LogWorld: Bringing up level for play took: 0.002573
+[2018.06.28-13.25.24:730][154]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 0.745
+[2018.06.28-13.25.24:730][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.40:217][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.40:259][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.41:481][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.25.41:581][155]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.25.41:604][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.41:604][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-13.25.41:604][155]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:25:41 AM)
+[2018.06.28-13.25.41:604][155]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.25.41:625][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020340s)
+[2018.06.28-13.25.41:626][155]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.25.41:626][155]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2018.06.28-13.25.41:626][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.021936s)
+[2018.06.28-13.25.41:655][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.25.41:723][155]LogInit: FAudioDevice initialized.
+[2018.06.28-13.25.41:756][155]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.25.41:762][155]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.25.41
+[2018.06.28-13.25.41:762][155]LogWorld: Bringing up level for play took: 0.002289
+[2018.06.28-13.25.41:763][155]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap -0.221
+[2018.06.28-13.25.41:763][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.44:021][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.44:070][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.25.55:687][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.26.07:702][363]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.28-13.26.10:517][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.26.11:783][559]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e36e844188, Size=4, Default__SKEL_BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.SKEL_BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.12:797][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e36e844188, Size=4
+[2018.06.28-13.26.12:797][614]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c21a2278, Size=4, Default__SKEL_BPHoverVehical_C Function /Engine/Transient.REINST_SKEL_BPHoverVehical_C_188:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.12:800][614]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c21a3950, Size=4, Default__SKEL_BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.SKEL_BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.19:102][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-13.26.20:786][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-13.26.20:808][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.26.20:808][ 63]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-13.26.20:823][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c21a3950, Size=4
+[2018.06.28-13.26.20:823][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e31d306fb0, Size=4, Default__SKEL_BPHoverVehical_C Function /Engine/Transient.REINST_SKEL_BPHoverVehical_C_191:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.20:827][ 63]LogPlayLevel: [PlayLevel] Compiling BPHoverVehical before play...
+[2018.06.28-13.26.20:840][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c1b3c400, Size=992
+[2018.06.28-13.26.20:841][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3ac58a000, Size=992, Default__BPHoverVehical_C Function /Engine/Transient.REINST_BPHoverVehical_C_194:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.20:849][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e3c1b3cc00, Size=992, Default__BPHoverVehical_C Function /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical_C:ExecuteUbergraph_BPHoverVehical
+[2018.06.28-13.26.21:377][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e31d306fb0, Size=4
+[2018.06.28-13.26.21:377][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3ac58a000, Size=992
+[2018.06.28-13.26.21:377][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e3c21a2278, Size=4
+[2018.06.28-13.26.21:379][ 63]LogPlayLevel: PlayLevel: Blueprint regeneration took 571 ms (1 blueprints)
+[2018.06.28-13.26.21:380][ 63]PIE: New page: PIE session: CodeMap (Jun 28, 2018, 5:26:21 AM)
+[2018.06.28-13.26.21:380][ 63]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_CodeMap
+[2018.06.28-13.26.21:401][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020736s)
+[2018.06.28-13.26.21:403][ 63]LogAIModule: Creating AISystem for world CodeMap
+[2018.06.28-13.26.21:403][ 63]LogPlayLevel: PIE: World Init took: (0.002013s)
+[2018.06.28-13.26.21:403][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/CodeMap.CodeMap to /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap (0.023272s)
+[2018.06.28-13.26.21:430][ 63]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-13.26.21:499][ 63]LogInit: FAudioDevice initialized.
+[2018.06.28-13.26.21:533][ 63]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.06.28-13.26.21:541][ 63]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_CodeMap.CodeMap up for play (max tick rate 60) at 2018.06.28-09.26.21
+[2018.06.28-13.26.21:541][ 63]LogWorld: Bringing up level for play took: 0.002645
+[2018.06.28-13.26.21:542][ 63]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_CodeMap 1.557
+[2018.06.28-13.26.21:542][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.26.46:567][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.26.46:611][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap' with GeneratedClass '/Game/VehicleBP/Maps/CodeMap.CodeMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/CodeMap.CodeMap:PersistentLevel.CodeMap'
+[2018.06.28-13.27.24:877][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-13.27.25:844][838]LogSavePackage: Save=816.16ms
+[2018.06.28-13.27.25:844][838]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/CodeMap_Auto3B603D9234D542BDF1012359F4F324092.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto3.umap'
+[2018.06.28-13.27.25:846][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/VehicleBP/Maps/CodeMap_Auto3.umap
+[2018.06.28-13.27.25:854][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/CodeMap' took 0.952
+[2018.06.28-13.27.25:854][838]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.952
+[2018.06.28-13.27.25:859][838]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/BPHoverVehical] ([1] browsable assets)...
+[2018.06.28-13.27.25:893][838]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/BPHoverVehical.BPHoverVehical]
+[2018.06.28-13.27.25:893][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/BPHoverVehical]
+[2018.06.28-13.27.25:982][838]LogSavePackage: Save=73.94ms
+[2018.06.28-13.27.25:982][838]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehical_Auto317490961448A8DAE3F9D509DA62CF38E.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto3.uasset'
+[2018.06.28-13.27.25:984][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/Autosaves/Game/StarterContent/Blueprints/BPHoverVehical_Auto3.uasset
+[2018.06.28-13.27.25:984][838]LogFileHelpers: Auto-saving content packages took 0.126
+[2018.06.28-13.28.42:673][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Maps/CodeMap" FILE="../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.28-13.28.43:460][319]LogSavePackage: Save=757.62ms
+[2018.06.28-13.28.43:460][319]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/CodeMapD4CECFB84DB244A115740CB82C56765E.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap'
+[2018.06.28-13.28.43:467][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/VehicleBP/Maps/CodeMap.umap
+[2018.06.28-13.28.43:505][319]LogFileHelpers: Saving map 'CodeMap' took 2.544
+[2018.06.28-13.28.43:562][319]LogSavePackage: Save=50.98ms
+[2018.06.28-13.28.43:562][319]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/WetCigStudios/Saved/BPHoverVehicalD1CE042849BFE9E46A3F7E901A2364E8.tmp' to '../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset'
+[2018.06.28-13.28.43:567][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/WetCigStudios/Content/StarterContent/Blueprints/BPHoverVehical.uasset
